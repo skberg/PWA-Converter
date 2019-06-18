@@ -1,8 +1,10 @@
 # `Weight Converter`   [![Netlify Status](https://api.netlify.com/api/v1/badges/78f8a231-9dd8-45cc-a1b8-ebc86a48dcaf/deploy-status)](https://app.netlify.com/sites/bolaji-wc/deploys)
 
-Project for my `Building & Deploying your first Progressive Web App` article. <br>
+Project to get me to understand more about the world of PWA, this is a tutorial that you can read more about here: https://medium.com/backticks-tildes/build-your-first-progressive-web-app-a-weight-converter-app-and-deploy-to-netlify-b55ed4a86413
 
+Original author: https://medium.com/@bolajiayodeji
 
+I have made some changes and tried to learn form his code.
 
 
 
