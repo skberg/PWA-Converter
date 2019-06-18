@@ -8,7 +8,7 @@ Project for my `Building & Deploying your first Progressive Web App` article. <
 
 # Setup
 ```bash
-git clone https://github.com/BolajiAyodeji/weight-converter.git
+git clone https://github.com/skberg/PWA-Converter.git
 ```
 ```bash
 cd weight-converter
