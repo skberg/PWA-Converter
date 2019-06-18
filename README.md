@@ -2,10 +2,9 @@
 
 Project to get me to understand more about the world of PWA, this is a tutorial that you can read more about here: https://medium.com/backticks-tildes/build-your-first-progressive-web-app-a-weight-converter-app-and-deploy-to-netlify-b55ed4a86413
 
-Original author: https://medium.com/@bolajiayodeji
+Original author: https://medium.com/@bolajiayodeji 👍
 
-I have made some changes and tried to learn form his code.
-
+I have made some changes and tried to learn form his code and it works 👏 👏  
 
 ![Screenshot_20190618-143129](https://user-images.githubusercontent.com/32140076/59682185-f79f8900-91d5-11e9-9be7-9e9f3be5d72e.png)
 
