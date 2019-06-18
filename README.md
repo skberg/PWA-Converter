@@ -7,6 +7,7 @@ Original author: https://medium.com/@bolajiayodeji
 I have made some changes and tried to learn form his code.
 
 
+![Screenshot_20190618-143129](https://user-images.githubusercontent.com/32140076/59682185-f79f8900-91d5-11e9-9be7-9e9f3be5d72e.png)
 
 # Setup
 ```bash
